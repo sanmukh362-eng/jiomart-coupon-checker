@@ -24,7 +24,7 @@ Sending too many requests too fast may cause:
 
 - ✅ Generate **10-character coupons** (strict rule enforced).  
 - ✅ Supports **prefix-based coupons** or **fully random generation**.  
-- ✅ **Validates prefix length** (max 10 chars, warning + red border if exceeded).  
+- ✅ **Validates prefix length** (max 11 chars, warning + red border if exceeded).  
 - ✅ **Alternate Number–Letter pattern** in coupon codes.  
 - ✅ Test multiple coupons automatically.  
 - ✅ 5-second delay between each coupon check (to avoid spamming).  
